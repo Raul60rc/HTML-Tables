@@ -1,0 +1,9 @@
+p{
+    text-decoration: solid;
+    display: flex;
+    flex-direction: row;
+}
+img{
+    width: 100px;
+    height: 100px;
+}
